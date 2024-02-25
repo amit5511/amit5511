@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 👯 I’m looking to collaborate on: MERN and Software Development Projects<br>🤝 I’m looking for help with: Getting my hands on some real life projects.<br>🌱 I’m currently learning: WebRTC <br>⚡ Fun fact: I code in HTML X)
 
 
@@ -21,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=amit5511&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
